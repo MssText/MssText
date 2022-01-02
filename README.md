@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I give all love and peace to code, and I hope to use code to embellish the world
+Embrace all love and peace, and look forward to using codes to embellish the world
 
 ![](https://github-readme-stats.vercel.app/api?username=msstext&theme=dark)
